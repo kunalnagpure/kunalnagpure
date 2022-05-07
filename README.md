@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Git, GitLab, Python, R, SQL, Power BI.
 - 💞️ I’m looking to collaborate on all phase Data Scientist project.
 - 📫 How to reach me https://www.linkedin.com/in/kunalnagpure
-                                                                                                                       Key :-
+ 
+
+Key :-
 1️⃣ Python Basics                                                                                                      🔴 Not Done Yet 
     a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods   rest are completed
     b. Python Oops
