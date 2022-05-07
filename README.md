@@ -6,7 +6,7 @@
  
 
 
-1️⃣ Python Basics                                                                                                      🔴 Not Done Yet 
+1️⃣ Python Basics                                                                                                     
     a. Python basics :- variables, list, sets, tuples, loops, functions, lambda functions, dictionary, input methods   rest are completed
     b. Python Oops
     c. File and Error Handling 
@@ -21,7 +21,7 @@
     b. Matplotlib
     c. Seaborn
     d. Pandas
-   🔴Plotly
+    e. Plotly
     
 4️⃣ Feature Selection and Extraction
     a.Feature Selection - Chi2 test, RandomForest Classifier
