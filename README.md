@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunalnagpure
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Scientist, Security, Analyst
 - 🌱 I’m currently learning Git, GitLab, Python, R, SQL, Power BI.
 - 💞️ I’m looking to collaborate on all phase Data Scientist project.
 - 📫 How to reach me https://www.linkedin.com/in/kunalnagpure
